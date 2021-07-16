@@ -1,0 +1,16 @@
+C:\Users\silvana.ombris\source\repos\Week1AcademyTest\Week1AcademyTest\bin\Debug\net5.0\Week1AcademyTest.exe
+C:\Users\silvana.ombris\source\repos\Week1AcademyTest\Week1AcademyTest\bin\Debug\net5.0\Week1AcademyTest.deps.json
+C:\Users\silvana.ombris\source\repos\Week1AcademyTest\Week1AcademyTest\bin\Debug\net5.0\Week1AcademyTest.runtimeconfig.json
+C:\Users\silvana.ombris\source\repos\Week1AcademyTest\Week1AcademyTest\bin\Debug\net5.0\Week1AcademyTest.runtimeconfig.dev.json
+C:\Users\silvana.ombris\source\repos\Week1AcademyTest\Week1AcademyTest\bin\Debug\net5.0\Week1AcademyTest.dll
+C:\Users\silvana.ombris\source\repos\Week1AcademyTest\Week1AcademyTest\bin\Debug\net5.0\ref\Week1AcademyTest.dll
+C:\Users\silvana.ombris\source\repos\Week1AcademyTest\Week1AcademyTest\bin\Debug\net5.0\Week1AcademyTest.pdb
+C:\Users\silvana.ombris\source\repos\Week1AcademyTest\Week1AcademyTest\obj\Debug\net5.0\Week1AcademyTest.csprojAssemblyReference.cache
+C:\Users\silvana.ombris\source\repos\Week1AcademyTest\Week1AcademyTest\obj\Debug\net5.0\Week1AcademyTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvana.ombris\source\repos\Week1AcademyTest\Week1AcademyTest\obj\Debug\net5.0\Week1AcademyTest.AssemblyInfoInputs.cache
+C:\Users\silvana.ombris\source\repos\Week1AcademyTest\Week1AcademyTest\obj\Debug\net5.0\Week1AcademyTest.AssemblyInfo.cs
+C:\Users\silvana.ombris\source\repos\Week1AcademyTest\Week1AcademyTest\obj\Debug\net5.0\Week1AcademyTest.csproj.CoreCompileInputs.cache
+C:\Users\silvana.ombris\source\repos\Week1AcademyTest\Week1AcademyTest\obj\Debug\net5.0\Week1AcademyTest.dll
+C:\Users\silvana.ombris\source\repos\Week1AcademyTest\Week1AcademyTest\obj\Debug\net5.0\ref\Week1AcademyTest.dll
+C:\Users\silvana.ombris\source\repos\Week1AcademyTest\Week1AcademyTest\obj\Debug\net5.0\Week1AcademyTest.pdb
+C:\Users\silvana.ombris\source\repos\Week1AcademyTest\Week1AcademyTest\obj\Debug\net5.0\Week1AcademyTest.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+1) Reference Type: tipi che fanno riferimento a un valore che è memorizzato nell'heap,
+possono essere null
+Value Type: memorizzati nello stack. Non possono essere null
+
+2) delegate è un tipo che fa riferimento ad altri metodi. è  passato al codice che
+poi chiama il metodo a cui fa riferimento
+
+3) Pattern factory: sorpassa il problema di dover creare oggetti senza specificare la classe esatta
+ma riferendoci all'interfaccia
+
